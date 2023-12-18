@@ -12,6 +12,8 @@ public class Lambda06 {
         //maksimum3(nums);
         maksimum4(nums);
 
+
+
     }//main disi
 
     //1)Verilen List'teki "maksimum değeri" bulmak için bir method oluşturun

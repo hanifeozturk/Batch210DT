@@ -4,7 +4,7 @@ public class MethodOverloading01 {
     public static void main(String[] args) {
         //Polymorphism - Cok Bicimlilik
         //Method Overloading (static polymorphism) + Method Overriding (dynamic polymorphism)
-
+        System.out.println("new");
 
     }
 }
